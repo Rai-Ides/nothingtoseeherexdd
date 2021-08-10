@@ -39,10 +39,10 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
     <div class="navSize">
-			<a href="/"><img class="avatar" src="https://i.loli.net/2021/02/06/wA4uPNE67rMqWxZ.jpg"/></a>
+			<a href="/"><img class="avatar" src="https://i.loli.net/2021/08/10/fQcTRpeULCD69oy.jpg"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://telegram.dog/rceus/" target="_blank">Arceus</a></li>
+					<li class="menu_li"><a href="https://telegram.dog/Seor4/" target="_blank">Seora</a></li>
 				</ul>
 				<div class="nav_icon"></div>
 			</div>
